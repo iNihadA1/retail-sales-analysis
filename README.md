@@ -1,2 +1,2 @@
-# retail-sales-analysis
+# Retail-Sales-Analysis
 Exploratory data analysis of retail sales data using Python, SQL, and data visualization to uncover business insights.
